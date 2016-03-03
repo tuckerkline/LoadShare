@@ -1,0 +1,25 @@
+body {
+  /*padding: 50px;*/
+  /*font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;*/
+}
+
+* {
+	font-family: Montserrat
+}
+
+a {
+  color: #00B7FF;
+}
+
+header {
+	background-image: url("../images/13H.jpg");
+	height: 500px;
+}
+
+
+
+.homecopy {
+	padding : 50px;
+	background-color: #7287A5;
+	color: #B8C1CC;
+}
